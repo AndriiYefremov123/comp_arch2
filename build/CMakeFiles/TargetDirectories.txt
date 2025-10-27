@@ -1,0 +1,4 @@
+/home/lsk/Downloads/Lab_2/build/CMakeFiles/calc.dir
+/home/lsk/Downloads/Lab_2/build/CMakeFiles/calculator.dir
+/home/lsk/Downloads/Lab_2/build/CMakeFiles/edit_cache.dir
+/home/lsk/Downloads/Lab_2/build/CMakeFiles/rebuild_cache.dir
