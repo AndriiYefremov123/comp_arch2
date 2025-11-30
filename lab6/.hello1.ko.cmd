@@ -1,0 +1,1 @@
+cmd_/home/vboxuser/labs/lab6/hello1.ko := arm-linux-gnueabihf-ld -r -EL -z noexecstack --no-warn-rwx-segments -T ./scripts/module-common.lds -T ./arch/arm/kernel/module.lds  --build-id  -o /home/vboxuser/labs/lab6/hello1.ko /home/vboxuser/labs/lab6/hello1.o /home/vboxuser/labs/lab6/hello1.mod.o ;  true
